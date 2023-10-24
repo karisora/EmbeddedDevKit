@@ -1,0 +1,5 @@
+steering_controller:
+  update_rate: 1 # Hz
+  wheel_radius: 0.10
+  wheel_distance_width: 0.30
+  wheel_distance_length: 0.50
